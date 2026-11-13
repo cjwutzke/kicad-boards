@@ -1,0 +1,35 @@
+{
+ "title": "MP2322A vs TP62901",
+ "board": "MP2322A vs TP62901",
+ "slug": "mp2322a-vs-tp62901",
+ "rev": "A",
+ "rev_slug": "a",
+ "url": "https://cjwutzke.github.io/kicad-boards/mp2322a-vs-tp62901/a/",
+ "built": "2026-11-13 23:52 UTC",
+ "commit": null,
+ "kicad": "10.0",
+ "files": {
+  "schematic_pdf": "schematic.pdf",
+  "schematic_svg": [
+   "schematic-svg/MP2322A vs TP62901.svg"
+  ],
+  "board_svg": [
+   "board-top.svg",
+   "board-bottom.svg"
+  ],
+  "layer_svg": [
+   "layers/F_Cu.svg",
+   "layers/B_Cu.svg",
+   "layers/F_SilkS.svg",
+   "layers/B_SilkS.svg"
+  ],
+  "board_pdf": "board.pdf",
+  "renders": [
+   "render-top.png",
+   "render-bottom.png",
+   "render-iso.png"
+  ],
+  "bom": "bom.csv",
+  "design": []
+ }
+}
