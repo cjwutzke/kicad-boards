@@ -5,7 +5,7 @@
  "rev": "A",
  "rev_slug": "a",
  "url": "https://cjwutzke.github.io/kicad-boards/mp2322a-vs-tp62901/a/",
- "built": "2026-11-14 01:18 UTC",
+ "built": "2026-11-14 01:20 UTC",
  "commit": null,
  "kicad": "10.0",
  "files": {
@@ -41,7 +41,7 @@
     ]
    },
    {
-    "url": "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2322",
+    "url": "https://www.monolithicpower.com/en/mp2322a.html",
     "refs": [
      "U2"
     ],
